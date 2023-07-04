@@ -1,0 +1,1 @@
+VPC created on `date` and VPC ID: vpc-0b67f71ebe7eb6630 
