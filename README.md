@@ -60,8 +60,16 @@ terraform apply -auto-approve
 This project showcases a multi-tier VPC environment. You can extend this configuration to deploy various types of resources, such as load balancers, EC2 instances, and databases, within the separate subnets.
 
 
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/thanikai-chandran-400486227)
+
+## 🚀 About Me
+I'm a Cloud and devops Engineer...
 
 
 
