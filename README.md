@@ -48,6 +48,16 @@ Plan and preview the changes:
 ```bash
 terraform plan
 ```
+Apply the changes to create the multi-tier VPC:
+```bash
+terraform apply
+(or)
+terraform apply -auto-approve
+
+## Usage
+
+This project showcases a multi-tier VPC environment. You can extend this configuration to deploy various types of resources, such as load balancers, EC2 instances, and databases, within the separate subnets.
+
 
 
 
