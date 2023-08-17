@@ -18,8 +18,11 @@ Before you begin, ensure you have the following:
 
 - AWS account credentials configured with appropriate permissions.
 
-## Getting Started
+## 🛠 Skills
+- Terraform
+- AWS - EC2,VPC,application loadbalancer,Route53
 
+## Getting Started
 
 
 
