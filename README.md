@@ -1,4 +1,4 @@
-# Terraform VPC-3 Project
+# Terraform VPC-3 Project  ![Logo](https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png)
 
 
 This project demonstrates the use of Terraform to create a multi-tier Virtual Private Cloud (VPC) environment in AWS.
