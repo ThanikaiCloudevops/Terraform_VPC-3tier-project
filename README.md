@@ -53,6 +53,7 @@ Apply the changes to create the multi-tier VPC:
 terraform apply
 (or)
 terraform apply -auto-approve
+```
 
 ## Usage
 
