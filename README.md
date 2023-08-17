@@ -25,8 +25,40 @@ Before you begin, ensure you have the following:
 ## Getting Started
 
 Clone this repository to your local machine:
+
 ```bash
 git clone https://github.com/ThanikaiCloudevops/Terraform_VPC-3tier-project
 ```
+Navigate to the project directory
+
+```bash
+cd terraform-vpc-3-project
+```
+
+Initialize the Terraform configuration:
+ **Terraform commands**
+ ```bash
+terraform init
+```
+validate the terraform configuration file:
+```bash
+terraform validate
+```
+Plan and preview the changes:
+```bash
+terraform plan
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
