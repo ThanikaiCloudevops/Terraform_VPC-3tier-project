@@ -24,6 +24,9 @@ Before you begin, ensure you have the following:
 
 ## Getting Started
 
-
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/ThanikaiCloudevops/Terraform_VPC-3tier-project
+```
 
 
